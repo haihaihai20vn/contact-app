@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "id": "bfa13320-758c-4a6a-bda0-f625d1ac369d",
+      "name": "Hai Thanh",
+      "email": "123@gmail.com"
+    },
+    {
+      "id": "bea41808-4eae-4b79-a204-be701085c339",
+      "name": "Hai",
+      "email": "21312"
+    },
+    {
+      "id": "5ad155cb-b3fd-4347-8cdb-4f88dc10041e",
+      "name": "ABC",
+      "email": "0379832721"
+    }
+  ]
+}
